@@ -17,6 +17,4 @@ int main(void){
     printf("dlugosc przeciwprostokatnej: %lf \n", wynik);
 return 0;
 }
-
-
-/*blad ! */
+/*Dodaj -lm do kompilacji */
